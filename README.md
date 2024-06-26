@@ -19,3 +19,4 @@ npm install
 ## To run the project in development mode:
 
 npm run dev
+![image](https://github.com/yaneznayou/test-map/assets/84455629/3034c3c4-a50c-412a-8439-b35a90a25e25)
